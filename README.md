@@ -10,3 +10,4 @@ The developer is not responsible for any misuse or damage caused by the use of t
 Always comply with your local laws, ethical hacking guidelines, and responsible disclosure practices.
 
 ❗This tool is intended to help students, learners, and ethical hackers understand how directory enumeration works in penetration testing.
+![WhatsApp Image 2025-07-19 at 1 53 11 AM](https://github.com/user-attachments/assets/7966c73f-e730-41fc-b54d-91409f99bac6)
